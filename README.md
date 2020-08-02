@@ -1,12 +1,12 @@
-<br><p align = "center"><img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif"><br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning
-- 🌱 I’m currently learning Neural Networks and Deep Learning<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" width="35" />
+<br><p align = "center"><img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/fan-1.gif"><br>
+    <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
+### Hi there <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/Hi.gif" width="29px">
+- <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy_2.gif" width="30"> I’m currently working on Machine Learning
+- 🌱 I’m currently learning Neural Networks and Deep Learning<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy.webp" width="35" />
 - 👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community
 - 🤔 I’m looking for help with Competitive Programing
 - 💬 Ask me about Technology,Music
-- <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" width="38">How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GurkiratSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurkirat-singh-87901a169/)](https://www.linkedin.com/in/gurkirat-singh-87901a169/)
+- <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/connected.gif" width="38">How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GurkiratSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurkirat-singh-87901a169/)](https://www.linkedin.com/in/gurkirat-singh-87901a169/)
 - 😄 Pronouns: He/Him
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=gurkiratsingh-1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
