@@ -1,7 +1,4 @@
-
-
-
- <br><p align = "center"><img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif"><br>
+<br><p align = "center"><img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif"><br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning
