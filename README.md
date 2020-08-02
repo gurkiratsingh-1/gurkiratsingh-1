@@ -6,10 +6,11 @@
 ### Hi there 👋
  <br>
 - 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Neural Networks and Deep Learning
 
-  <br>
+- 🌱 I’m currently learning Neural Networks and Deep Learning
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=gurkiratsingh-1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkiratsingh-1&hide=css,html&theme=tokyonight">
 
 <!--
