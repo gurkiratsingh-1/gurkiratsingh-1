@@ -1,6 +1,6 @@
 <br><p align = "center"><img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/fan-1.gif"><br>
     <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
-### Hi there <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/Hi.gif" width="29px">
+<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/Name.gif" width="29px"> <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/Hi.gif" width="29px">
 - 🔭 I’m currently working on Machine Learning<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy_2.gif" width="30">
 - 🌱 I’m currently learning Neural Networks and Deep Learning<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy.webp" width="35" />
 - 👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/octo.gif" width="30" />
