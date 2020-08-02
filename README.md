@@ -21,5 +21,9 @@
 <a href="https://github.com/gurkiratsingh-1/gurkiratsingh-1" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/gurkiratsingh-1/gurkiratsingh-1?label=profile%20updated&style=flat-square"></a>
 <!--
 [**Connect via LinkedIn**](https://www.linkedin.com/in/gurkirat-singh-87901a169/)
+[![Twitter Badge](https://img.shields.io/badge/-@id-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/id)](https://twitter.com/id) 
+[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/id/)
+ [![Medium Badge](https://img.shields.io/badge/-@mishra.shanu15-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@id/)](https://medium.com/@id/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:id@gmail.com)](mailto:id@gmail.com)
 - 🔭🌱📫⚡ Fun fact: ...
 -->
