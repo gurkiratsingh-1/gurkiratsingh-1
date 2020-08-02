@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkiratsingh-1&hide=css,html&theme=tokyonight">
 
-![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=gurkiratsingh-1&show_icons=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gurkiratsingh-1)
 <!--
