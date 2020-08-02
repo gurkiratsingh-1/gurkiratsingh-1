@@ -4,7 +4,6 @@
  <br><p align = "center"><img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif"><br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
 ### Hi there 👋
- <br>
 - 🔭 I’m currently working on Machine Learning
 
 - 🌱 I’m currently learning Neural Networks and Deep Learning
