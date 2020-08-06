@@ -3,7 +3,7 @@
    <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/Hi.gif" width="29px">
        <img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/Name.gif" width="250px">
 - 🔭 I’m currently working on Machine Learning<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy_2.gif" width="30">
-- 🌱 I’m currently learning Neural Networks and Deep Learning<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/source.gif" width="35" />
+- 🌱 I’m currently learning Neural Networks and Deep Learning<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/giphy.webp" width="35" />
 - 👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/octo.gif" width="30" />
 - 🤔 I’m looking for help with Competitive Programing<img src="https://github.com/gurkiratsingh-1/gurkiratsingh-1/blob/master/connected.gif" width="38">
 - 💬 Ask me about Technology,Music
