@@ -12,7 +12,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=gurkiratsingh-1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkiratsingh-1&hide=css,html&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkiratsingh-1&hide=css,html&theme=tokyonight" >
 
 <a href="https://github.com/gurkiratsingh-1?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/gurkiratsingh-1?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
